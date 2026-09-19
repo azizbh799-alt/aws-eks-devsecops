@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+.env
+*.pem
+credentials
+credentials.txt
+
+# Node
+node_modules/
+
+# AWS
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# File containing AWS credentials
+ingress-commands
